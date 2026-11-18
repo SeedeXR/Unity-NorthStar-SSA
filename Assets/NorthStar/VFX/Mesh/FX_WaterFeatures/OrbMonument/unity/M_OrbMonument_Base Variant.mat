@@ -50,6 +50,7 @@ Material:
     - _AlphaClip: 1
     - _AlphaToMask: 1
     - _DstBlend: 0
+    - _DstBlendAlpha: 0
     - _GradientIntensity: -0.64
     - _Mask_Smoothstep_Offset: 0.77
     - _Mask_Smoothstep_Transition: 0.17
